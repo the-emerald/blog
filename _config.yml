@@ -3,7 +3,7 @@ title:               Emerald's blog
 tagline:             ''
 description:         "A blog for the shenanigans I've been working on."
 url:                 https://the-emerald.github.io
-baseurl:             /blog/
+baseurl:             /blog
 paginate:            5
 permalink:           pretty
 
